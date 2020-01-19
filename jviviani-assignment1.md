@@ -1,6 +1,6 @@
 ## Good Data Visualization
 
-![](./good_example.png)<!-- -->
+![](./good_example.png)<!-- --> ![](good_example.PNG)
 
 I selected the image above as an example of good data visualization. It
 comes from an article discussing the annual ranking of the top 50

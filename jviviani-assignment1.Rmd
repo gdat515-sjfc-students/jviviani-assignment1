@@ -15,7 +15,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Good Data Visualization
 ```{r echo=FALSE}
 knitr::include_graphics('./good_example.png')
+
 ```
+![](good_example.PNG)
 
 I selected the image above as an example of good data visualization. It comes from an article discussing the annual ranking of the top 50 biopharma companies according to prescription drug sales in 2018. The graph is attempting to show how much money is spent by pharmaceutical companies on research and development commpared to the revenue they generate from sales.
 
